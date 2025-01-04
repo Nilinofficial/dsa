@@ -1,0 +1,1 @@
+We need to sort the array for binary search to be done.
