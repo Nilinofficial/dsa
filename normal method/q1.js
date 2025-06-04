@@ -3,7 +3,7 @@
 const numberArray = [2, 4, 10, 12, 16, 18, 20];
 const targetElement = 16;
 function findIndex(array, element) {
-    for (var index = 0; index < numberArray.length; index++) {
+    for (let index = 0; index < numberArray.length; index++) {
         if (array[index] === element) {
             return index;
         }
