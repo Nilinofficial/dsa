@@ -36,3 +36,4 @@
 
 // this is two pointer approach , we are using two pointers i and pointer.
 // also known as fast-slow pointer approach
+// when ever something comes like duplicates and sorted array- remember this two pointer approach
