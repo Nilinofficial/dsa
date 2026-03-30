@@ -29,4 +29,4 @@ const res= reverseString(s);
 console.log(res);
 
 // to reverse string in swap like this at the same time.
-// This is also a two pointer technique. Swapping items with two pointers
+// This is also a two pointer technique. Swapping items with two pointers.
