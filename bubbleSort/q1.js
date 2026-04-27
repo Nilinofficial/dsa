@@ -51,3 +51,6 @@ for(let i=0;i<n-1;i++){
 return arr
 
 }
+
+// worst case  => time complexity => O(n^2) Bad complexity
+// space complexity => Constant => 0(1)
