@@ -20,3 +20,6 @@ function insertionSort(arr) {
 
 const res= insertionSort(arr);
 console.log(res);
+
+// worst case  => time complexity => O(n^2) Bad complexity
+// space complexity => Constant => 0(1)
