@@ -13,7 +13,7 @@ function selectionSort(arr){
          let minimumValueIndex = i
 
         for (let j=i+1;j<n;j++){
-          if(arr[j]<arr[minimumValueIndex]){
+          if(arr[j]>arr[minimumValueIndex]){
             minimumValueIndex=j
           }
         }
